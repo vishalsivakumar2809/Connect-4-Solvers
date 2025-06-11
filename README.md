@@ -2,8 +2,8 @@
 
 This project implements AI strategies for Connect4, utilizing Minimax and Alpha-Beta Pruning to determine the best possible move for a player in a given board state. Both algorithms search to a specified depth to evaluate the optimal action, helping the AI make informed decisions.
 
-Minimax: A depth-first search algorithm that evaluates possible moves and selects the best one.
-Alpha-Beta Pruning: An optimized version of Minimax that reduces unnecessary evaluations using alpha-beta bounds.
+1. Minimax: A depth-first search algorithm that evaluates possible moves and selects the best one.
+2. Alpha-Beta Pruning: An optimized version of Minimax that reduces unnecessary evaluations using alpha-beta bounds.
 
 # Algorithms
 ## Minimax Algorithm: 
