@@ -16,3 +16,7 @@ Alpha-Beta pruning improves Minimax efficiency by cutting off branches that do n
 ```python3 script.py```
 
 # Demo
+
+https://github.com/user-attachments/assets/29cce43a-9b0f-40ce-96e4-f2658dae05df
+
+
